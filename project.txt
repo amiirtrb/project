@@ -1,2 +1,2 @@
 remote repository demo project
-initial version
+initial version 1.1
